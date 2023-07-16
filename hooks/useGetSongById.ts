@@ -4,7 +4,7 @@ import { useEffect, useMemo, useState } from "react"
 import { toast } from "react-hot-toast";
 
 
-const useGetSongByid = (id?: string) => {
+const useGetSongById = (id?: string) => {
     const [isLoading, setIsLoading] = useState(false);
     const [song, setSong] = useState<Song | undefined>(undefined)
     const { supabaseClient } = useSessionContext();
@@ -41,4 +41,4 @@ const useGetSongByid = (id?: string) => {
     }), [isLoading, song]) 
 }
 
-export default useGetSongByid
+export default useGetSongById
