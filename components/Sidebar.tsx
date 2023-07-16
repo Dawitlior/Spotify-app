@@ -20,7 +20,7 @@ const Sidebar: React.FC<SidebarProps> = ({ children,songs }) => {
     const routes = useMemo(() => [
         {
             icon: HiHome,
-            label: 'home',
+            label: 'Home',
             active: pathname !== '/search',
             href: '/'
         },
