@@ -3,6 +3,15 @@
 
 For DEMO, use [Stripe Testing Cards](https://stripe.com/docs/testing)
 
+### Description
+
+ultimate Full Stack Spotify Clone, powered by Next.js 13.4 App Router, React, Tailwind, Supabase, PostgreSQL, and Stripe.
+Enjoy seamless song uploads, secure Stripe integration, and a sleek Tailwind UI with animations.
+Experience full responsiveness on all devices and benefit from credential authentication,
+Github login, and Supabase storage for file uploads.
+Explore advanced features like favorites, playlists,
+and real-time interactions while managing Stripe subscriptions effortlessly.
+
 Key Features:
 
 - Song upload
