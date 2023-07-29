@@ -3,6 +3,8 @@
 
 For DEMO, use [Stripe Testing Cards](https://stripe.com/docs/testing)
 
+- in progress (fix bugs)
+
 ### Description
 
 ultimate Full Stack Spotify Clone, powered by Next.js 13.4 App Router, React, Tailwind, Supabase, PostgreSQL, and Stripe.
