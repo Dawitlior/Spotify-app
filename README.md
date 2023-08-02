@@ -3,7 +3,8 @@
 
 For DEMO, use [Stripe Testing Cards](https://stripe.com/docs/testing)
 
-- in progress (fix bugs)
+- in progress (fix bugs) in Login\Signup Throgh github
+- upload songs to database (Supabase)
 
 ### Description
 
